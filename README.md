@@ -24,6 +24,7 @@ Ubuntu/Linux · Git · Postman · Jira
 
 Software Development / Engineering
 Full Stack Web Development
+Cybersecurity
 
 ---
 
