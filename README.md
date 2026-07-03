@@ -1,5 +1,5 @@
-<h1 align="center">Niki Argyrou</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Niki Argyrou-Kolotourou</h1>
+<h3 align="center">Software Engineer</h3>
 
 ---
 
